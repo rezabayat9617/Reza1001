@@ -1,0 +1,2 @@
+Git practice on HPC2N
+Clone, pull, add, commit, and push.
