@@ -1,0 +1,866 @@
+ID   LYSC_HUMAN              Reviewed;         148 AA.
+AC   P61626; P00695; Q13170; Q9UCF8;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2004, sequence version 1.
+DT   02-SEP-2026, entry version 205.
+DE   RecName: Full=Lysozyme C;
+DE            EC=3.2.1.17;
+DE   AltName: Full=1,4-beta-N-acetylmuramidase C;
+DE   Flags: Precursor;
+GN   Name=LYZ; Synonyms=LZM;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2971592; DOI=10.1016/0378-1119(88)90359-9;
+RA   Castanon M.J., Spevak W., Adolf G.R., Chlebowicz-Sledziewska E.,
+RA   Sledziewski A.;
+RT   "Cloning of human lysozyme gene and expression in the yeast Saccharomyces
+RT   cerevisiae.";
+RL   Gene 66:223-234(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3413092; DOI=10.1073/pnas.85.17.6227;
+RA   Chung L.P., Keshav S., Gordon S.;
+RT   "Cloning the human lysozyme cDNA: inverted Alu repeat in the mRNA and in
+RT   situ hybridization for macrophages and Paneth cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:6227-6231(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2829884; DOI=10.1016/0006-291x(88)90461-5;
+RA   Yoshimura K., Toibana A., Nakahama K.;
+RT   "Human lysozyme: sequencing of a cDNA, and expression and secretion by
+RT   Saccharomyces cerevisiae.";
+RL   Biochem. Biophys. Res. Commun. 150:794-801(1988).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2546758; DOI=10.1111/j.1432-1033.1989.tb14857.x;
+RA   Peters C.W.B., Kruse U., Pollwein R., Grzeschik K.H., Sippel A.E.;
+RT   "The human lysozyme gene. Sequence organization and chromosomal
+RT   localization.";
+RL   Eur. J. Biochem. 182:507-516(1989).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Huang B., Zhao C., Lei X., Cai L.;
+RT   "The cloning, sequencing and analysis of Chinese human lysozyme gene cDNA
+RT   amplified with RT-PCR from human placental total RNA.";
+RL   Sheng Wu Hua Hsueh Tsa Chih 9:269-273(1993).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Colon;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 19-148.
+RC   TISSUE=Urine;
+RX   PubMed=5284421; DOI=10.1038/newbio232016a0;
+RA   Canfield R.E., Kammerman S., Sobel H.H., Morgan F.J.;
+RT   "Primary structure of lysozymes from man and goose.";
+RL   Nature New Biol. 232:16-17(1971).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 19-148, AND SEQUENCE REVISION TO 118.
+RC   TISSUE=Urine;
+RX   PubMed=11946554; DOI=10.1016/0014-5793(72)80212-6;
+RA   Thomsen J., Lund E.H., Kristiansen K., Brunfeldt K., Malmquist J.;
+RT   "A Val-Val sequence found in a human monocytic leukemia lysozyme.";
+RL   FEBS Lett. 22:34-36(1972).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 19-148.
+RC   TISSUE=Milk;
+RX   PubMed=5168859; DOI=10.1002/hlca.19710540830;
+RA   Jolles J., Jolles P.;
+RT   "Human milk lysozyme: unpublished data concerning the establishment of the
+RT   complete primary structure; comparison with lysozymes of various origins.";
+RL   Helv. Chim. Acta 54:2668-2675(1971).
+RN   [10]
+RP   PROTEIN SEQUENCE OF 19-148, AND SEQUENCE REVISION TO 118.
+RC   TISSUE=Milk;
+RX   PubMed=11946553; DOI=10.1016/0014-5793(72)80211-4;
+RA   Jolles J., Jolles P.;
+RT   "Comparison between human and bird lysozymes: note concerning the
+RT   previously observed deletion.";
+RL   FEBS Lett. 22:31-33(1972).
+RN   [11]
+RP   PROTEIN SEQUENCE OF 19-41 AND 96-148, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Tear;
+RX   PubMed=25946035; DOI=10.1021/acs.jproteome.5b00179;
+RA   Azkargorta M., Soria J., Ojeda C., Guzman F., Acera A., Iloro I.,
+RA   Suarez T., Elortza F.;
+RT   "Human basal tear peptidome characterization by CID, HCD, and ETD followed
+RT   by in silico and in vitro analyses for antimicrobial peptide
+RT   identification.";
+RL   J. Proteome Res. 14:2649-2658(2015).
+RN   [12]
+RP   FOLDING, AND MUTAGENESIS.
+RX   PubMed=8503881; DOI=10.1042/bj2920469;
+RA   Kanaya E., Ishihara K., Tsunasawa S., Nokihara K., Kikuchi M.;
+RT   "Indication of possible post-translational formation of disulphide bonds in
+RT   the beta-sheet domain of human lysozyme.";
+RL   Biochem. J. 292:469-476(1993).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RA   Banyard S.H., Blake C.C.F., Swan I.D.A.;
+RT   "The high resolution X-ray study of human. lysozyme: a preliminary
+RT   analysis.";
+RL   (In) Osserman E.F., Canfield R.E., Beychok S. (eds.);
+RL   Lysozyme, pp.71-79, Academic Press, New York (1974).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS).
+RX   PubMed=7334520; DOI=10.1016/0022-2836(81)90125-x;
+RA   Artymiuk P.J., Blake C.C.F.;
+RT   "Refinement of human lysozyme at 1.5-A resolution analysis of non-bonded
+RT   and hydrogen-bond interactions.";
+RL   J. Mol. Biol. 152:737-762(1981).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS).
+RX   PubMed=6876162; DOI=10.1016/s0022-2836(83)80105-3;
+RA   Blake C.C.F., Pulford W.C.A., Artymiuk P.J.;
+RT   "X-ray studies of water in crystals of lysozyme.";
+RL   J. Mol. Biol. 167:693-723(1983).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF MUTANT ALA-99 AND ALA-113.
+RX   PubMed=2061330; DOI=10.1016/s0021-9258(18)98941-6;
+RA   Inaka K., Taniyama Y., Kikuchi M., Morikawa K., Matsushima M.;
+RT   "The crystal structure of a mutant human lysozyme C77/95A with increased
+RT   secretion efficiency in yeast.";
+RL   J. Biol. Chem. 266:12599-12603(1991).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 AND 1.1 ANGSTROMS).
+RX   PubMed=9757091; DOI=10.1107/s0907444997016922;
+RA   Steinrauf L.K.;
+RT   "Structures of monoclinic lysozyme iodide at 1.6 A and of triclinic
+RT   lysozyme nitrate at 1.1 A.";
+RL   Acta Crystallogr. D 54:767-780(1998).
+RN   [20]
+RP   STRUCTURE BY NMR.
+RX   PubMed=2207098; DOI=10.1021/bi00483a007;
+RA   Redfield C., Dobson C.M.;
+RT   "1H NMR studies of human lysozyme: spectral assignment and comparison with
+RT   hen lysozyme.";
+RL   Biochemistry 29:7201-7214(1990).
+RN   [21]
+RP   STRUCTURE BY NMR.
+RX   PubMed=1794972; DOI=10.1093/oxfordjournals.jbchem.a123672;
+RA   Ohkubo T., Taniyama Y., Kikuchi M.;
+RT   "1H and 15N NMR study of human lysozyme.";
+RL   J. Biochem. 110:1022-1029(1991).
+RN   [22]
+RP   VARIANTS AMYLD5 THR-74 AND HIS-85, AND INVOLVEMENT IN AMYLD5.
+RX   PubMed=8464497; DOI=10.1038/362553a0;
+RA   Pepy M.B., Hawkins P.N., Booth D.R., Vigushin D.M., Tennent G.A.,
+RA   Soutar A.K., Totty N., Nguyen O., Blake C.C.F., Terry C.J., Feest T.G.,
+RA   Zalin A.M., Hsuan J.J.;
+RT   "Human lysozyme gene mutations cause hereditary systemic amyloidosis.";
+RL   Nature 362:553-557(1993).
+CC   -!- FUNCTION: Lysozymes have primarily a bacteriolytic function; those in
+CC       tissues and body fluids are associated with the monocyte-macrophage
+CC       system and enhance the activity of immunoagents.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Hydrolysis of (1->4)-beta-linkages between N-acetylmuramic
+CC         acid and N-acetyl-D-glucosamine residues in a peptidoglycan and
+CC         between N-acetyl-D-glucosamine residues in chitodextrins.;
+CC         EC=3.2.1.17;
+CC   -!- SUBUNIT: Monomer.
+CC   -!- INTERACTION:
+CC       P61626; P61626: LYZ; NbExp=3; IntAct=EBI-355360, EBI-355360;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- DISEASE: Amyloidosis, hereditary systemic 5 (AMYLD5) [MIM:620658]: A
+CC       form of hereditary systemic amyloidosis, a disorder characterized by
+CC       amyloid deposition in multiple tissues resulting in a wide clinical
+CC       spectrum. AMYLD5 primarily affects the viscera, and the predominant
+CC       clinical features are renal dysfunction of varying severity, and intra-
+CC       abdominal bleeding. Inheritance is autosomal dominant.
+CC       {ECO:0000269|PubMed:8464497}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: Lysozyme C is capable of both hydrolysis and
+CC       transglycosylation; it also shows a slight esterase activity. It acts
+CC       rapidly on both peptide-substituted and unsubstituted peptidoglycan,
+CC       and slowly on chitin oligosaccharides.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 22 family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00680}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA32175.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Lysozyme entry;
+CC       URL="https://en.wikipedia.org/wiki/Lysozyme";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M21119; AAA36188.1; -; mRNA.
+DR   EMBL; J03801; AAA59535.1; -; mRNA.
+DR   EMBL; M19045; AAA59536.1; -; mRNA.
+DR   EMBL; X14008; CAA32175.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; U25677; AAC63078.1; -; mRNA.
+DR   EMBL; BC004147; AAH04147.1; -; mRNA.
+DR   CCDS; CCDS8989.1; -.
+DR   PIR; S04938; LZHU.
+DR   RefSeq; NP_000230.1; NM_000239.3.
+DR   PDB; 133L; X-ray; 1.77 A; A=19-148.
+DR   PDB; 134L; X-ray; 1.77 A; A=19-148.
+DR   PDB; 1B5U; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1B5V; X-ray; 2.17 A; A=19-148.
+DR   PDB; 1B5W; X-ray; 2.17 A; A=19-148.
+DR   PDB; 1B5X; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1B5Y; X-ray; 2.20 A; A=19-148.
+DR   PDB; 1B5Z; X-ray; 2.20 A; A/B=19-148.
+DR   PDB; 1B7L; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1B7M; X-ray; 2.20 A; A=19-148.
+DR   PDB; 1B7N; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1B7O; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1B7P; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1B7Q; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1B7R; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1B7S; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1BB3; X-ray; 1.80 A; A/B=19-148.
+DR   PDB; 1BB4; X-ray; 2.23 A; A/B=19-148.
+DR   PDB; 1BB5; X-ray; 1.80 A; A/B=19-148.
+DR   PDB; 1C43; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1C45; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1C46; X-ray; 2.20 A; A=19-148.
+DR   PDB; 1C7P; X-ray; 2.40 A; A=15-148.
+DR   PDB; 1CJ6; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CJ7; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CJ8; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CJ9; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CKC; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CKD; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CKF; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1CKG; X-ray; 2.20 A; A/B=19-148.
+DR   PDB; 1CKH; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1D6P; X-ray; 2.23 A; A=19-148.
+DR   PDB; 1D6Q; X-ray; 1.96 A; A=19-148.
+DR   PDB; 1DI3; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1DI4; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1DI5; X-ray; 2.20 A; A=19-148.
+DR   PDB; 1EQ4; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1EQ5; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1EQE; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GAY; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GAZ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB0; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB2; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB3; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB5; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB6; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB7; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB8; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GB9; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GBO; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GBW; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GBX; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GBY; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GBZ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GDW; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GDX; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GE0; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GE1; X-ray; 1.70 A; A=19-148.
+DR   PDB; 1GE2; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1GE3; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GE4; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GEV; X-ray; 2.10 A; A=19-148.
+DR   PDB; 1GEZ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF0; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF3; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF4; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF5; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF6; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF7; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF8; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GF9; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFA; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFE; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFG; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFH; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFJ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFK; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFR; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFT; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFU; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1GFV; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1HNL; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1I1Z; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1I20; X-ray; 1.90 A; A=19-148.
+DR   PDB; 1I22; X-ray; 1.80 A; A/B/C/D=19-148.
+DR   PDB; 1INU; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IOC; X-ray; 2.40 A; A=19-148.
+DR   PDB; 1IP1; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IP2; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IP3; X-ray; 1.80 A; A/B=19-148.
+DR   PDB; 1IP4; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IP5; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IP6; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IP7; X-ray; 1.90 A; A/B=19-148.
+DR   PDB; 1IWT; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1IWU; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1IWV; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1IWW; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1IWX; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1IWY; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1IWZ; X-ray; 1.48 A; A=19-148.
+DR   PDB; 1IX0; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1IY3; NMR; -; A=19-148.
+DR   PDB; 1IY4; NMR; -; A=19-148.
+DR   PDB; 1JKA; X-ray; 1.66 A; A=19-148.
+DR   PDB; 1JKB; X-ray; 1.66 A; A=19-148.
+DR   PDB; 1JKC; X-ray; 1.60 A; A=19-148.
+DR   PDB; 1JKD; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1JSF; X-ray; 1.15 A; A=19-148.
+DR   PDB; 1JWR; X-ray; 1.40 A; A=19-148.
+DR   PDB; 1LAA; X-ray; 1.77 A; A=19-148.
+DR   PDB; 1LHH; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LHI; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LHJ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LHK; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LHL; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LHM; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LMT; X-ray; 1.60 A; A=19-148.
+DR   PDB; 1LOZ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LYY; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LZ1; X-ray; 1.50 A; A=19-148.
+DR   PDB; 1LZ4; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LZ5; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LZ6; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1LZR; X-ray; 1.50 A; A=19-148.
+DR   PDB; 1LZS; X-ray; 1.60 A; A/B=19-148.
+DR   PDB; 1OP9; X-ray; 1.86 A; B=19-148.
+DR   PDB; 1OUA; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUB; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUC; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUD; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUE; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUF; X-ray; 1.80 A; A=19-147.
+DR   PDB; 1OUG; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUH; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUI; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1OUJ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1QSW; X-ray; 1.85 A; A/B/C/D=19-148.
+DR   PDB; 1RE2; X-ray; 2.30 A; A=19-148.
+DR   PDB; 1REM; X-ray; 2.10 A; A=19-148.
+DR   PDB; 1REX; X-ray; 1.50 A; A=19-148.
+DR   PDB; 1REY; X-ray; 1.70 A; A=19-148.
+DR   PDB; 1REZ; X-ray; 1.70 A; A=19-148.
+DR   PDB; 1TAY; X-ray; 1.70 A; A=19-148.
+DR   PDB; 1TBY; X-ray; 1.77 A; A=19-148.
+DR   PDB; 1TCY; X-ray; 1.70 A; A=19-148.
+DR   PDB; 1TDY; X-ray; 1.70 A; A=19-148.
+DR   PDB; 1UBZ; X-ray; 2.00 A; A=19-148.
+DR   PDB; 1W08; X-ray; 2.50 A; A=19-148.
+DR   PDB; 1WQM; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1WQN; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1WQO; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1WQP; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1WQQ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1WQR; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1YAM; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1YAN; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1YAO; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1YAP; X-ray; 1.80 A; A=19-148.
+DR   PDB; 1YAQ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 207L; X-ray; 1.80 A; A=19-148.
+DR   PDB; 208L; X-ray; 2.20 A; A=19-148.
+DR   PDB; 2BQA; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQB; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQC; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQD; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQE; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQF; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQG; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQH; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQI; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQJ; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQK; X-ray; 1.80 A; A=19-147.
+DR   PDB; 2BQL; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQM; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQN; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2BQO; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2HEA; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2HEB; X-ray; 2.20 A; A=19-148.
+DR   PDB; 2HEC; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2HED; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2HEE; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2HEF; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2LHM; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEA; X-ray; 2.20 A; A/B=19-148.
+DR   PDB; 2MEB; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEC; X-ray; 2.20 A; A/B=19-148.
+DR   PDB; 2MED; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEE; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEF; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEG; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEH; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2MEI; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2NWD; X-ray; 1.04 A; X=19-148.
+DR   PDB; 2ZIJ; X-ray; 1.90 A; A=19-148.
+DR   PDB; 2ZIK; X-ray; 1.81 A; A=19-148.
+DR   PDB; 2ZIL; X-ray; 1.80 A; A=19-148.
+DR   PDB; 2ZWB; Neutron; 1.80 A; A=19-148.
+DR   PDB; 3EBA; X-ray; 1.85 A; B=19-148.
+DR   PDB; 3FE0; X-ray; 1.50 A; A=19-148.
+DR   PDB; 3LHM; X-ray; 1.80 A; A=19-148.
+DR   PDB; 3LN2; X-ray; 2.04 A; A/B=19-148.
+DR   PDB; 4I0C; X-ray; 1.95 A; A/B=19-148.
+DR   PDB; 4ML7; X-ray; 1.80 A; A/C=19-148.
+DR   PDB; 4R0P; X-ray; 1.52 A; A=74-79.
+DR   PDB; 5LSH; X-ray; 1.06 A; A=19-148.
+DR   PDB; 5LVK; X-ray; 2.49 A; A/B=19-148.
+DR   PDB; 6LFH; X-ray; 1.46 A; X=19-148.
+DR   PDB; 7AP7; X-ray; 1.15 A; A=19-148.
+DR   PDB; 7XF6; X-ray; 1.30 A; A=19-148.
+DR   PDB; 7XF7; X-ray; 1.55 A; A=19-148.
+DR   PDB; 7XF8; X-ray; 1.60 A; A=19-148.
+DR   PDB; 8QUT; EM; 2.80 A; A/C/E/G/I=19-148.
+DR   PDB; 8R4A; EM; 2.80 A; A/B/C/D/E/F/G/H/I=19-148.
+DR   AlphaFoldDB; P61626; -.
+DR   BMRB; P61626; -.
+DR   EMDB; EMD-18663; -.
+DR   EMDB; EMD-18883; -.
+DR   MDposit; P61626; -.
+DR   SMR; P61626; -.
+DR   BioGRID; 110247; 150.
+DR   FunCoup; P61626; 108.
+DR   IntAct; P61626; 78.
+DR   MINT; P61626; -.
+DR   NDEx; IQUERY-CP-LYZ; 4 NDEx IQuery Curated Pathways.
+DR   STRING; 9606.ENSP00000261267; -.
+DR   DrugBank; DB02159; (R)-Propylene glycol.
+DR   DrugBank; DB03487; (S)-Aspartimide.
+DR   DrugBank; DB02759; 4-methyl-umbelliferyl-N-acetyl-chitobiose.
+DR   DrugBank; DB03006; Arsanilic acid.
+DR   DrugBank; DB00128; Aspartic acid.
+DR   DrugBank; DB03189; Cu-Cyclam.
+DR   DrugBank; DB03967; Dodecyl sulfate.
+DR   DrugBank; DB04268; Methylumbelliferyl chitotriose.
+DR   DrugBank; DB03013; N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosamine.
+DR   DrugBank; DB03120; p-Toluenesulfonic acid.
+DR   DrugBank; DB03175; Propyl alcohol.
+DR   DrugBank; DB11182; Rose bengal.
+DR   DrugBank; DB02772; Sucrose.
+DR   DrugBank; DB04194; Triacetylchitotriose.
+DR   DrugBank; DB06912; UNDECA-3,7-DIENE-1,3,7,11-TETRACARBALDEHYDE.
+DR   CAZy; GH22; Glycoside Hydrolase Family 22.
+DR   GlyGen; P61626; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P61626; -.
+DR   PhosphoSitePlus; P61626; -.
+DR   SwissPalm; P61626; -.
+DR   BioMuta; LYZ; -.
+DR   DMDM; 48428995; -.
+DR   jPOST; P61626; -.
+DR   MassIVE; P61626; -.
+DR   PaxDb; 9606-ENSP00000261267; -.
+DR   PeptideAtlas; P61626; -.
+DR   PRIDE; P61626; -.
+DR   ProteomicsDB; 57328; -.
+DR   TopDownProteomics; P61626; -.
+DR   ABCD; P61626; 12 sequenced antibodies.
+DR   Antibodypedia; 3512; 1031 antibodies from 45 providers.
+DR   DNASU; 4069; -.
+DR   Ensembl; ENST00000261267.7; ENSP00000261267.2; ENSG00000090382.7.
+DR   GeneID; 4069; -.
+DR   KEGG; hsa:4069; -.
+DR   MANE-Select; ENST00000261267.7; ENSP00000261267.2; NM_000239.3; NP_000230.1.
+DR   UCSC; uc001suw.3; human.
+DR   AGR; HGNC:6740; -.
+DR   ClinPGx; PA30503; -.
+DR   CTD; 4069; -.
+DR   DisGeNET; 4069; -.
+DR   GeneCards; LYZ; -.
+DR   HGNC; HGNC:6740; LYZ.
+DR   HPA; ENSG00000090382; Tissue enhanced (bone marrow, salivary gland, stomach).
+DR   MalaCards; LYZ; -.
+DR   MIM; 153450; gene.
+DR   MIM; 620658; phenotype.
+DR   OpenTargets; ENSG00000090382; -.
+DR   Orphanet; 93561; ALys amyloidosis.
+DR   VEuPathDB; HostDB:ENSG00000090382; -.
+DR   eggNOG; ENOG502S1S1; Eukaryota.
+DR   GeneTree; ENSGT00940000153832; -.
+DR   HOGENOM; CLU_111620_0_1_1; -.
+DR   InParanoid; P61626; -.
+DR   OMA; VYERCEF; -.
+DR   OrthoDB; 17373at2759; -.
+DR   PAN-GO; P61626; 4 GO annotations based on evolutionary models.
+DR   PhylomeDB; P61626; -.
+DR   BRENDA; 3.2.1.17; 2681.
+DR   PathwayCommons; P61626; -.
+DR   Reactome; R-HSA-6798695; Neutrophil degranulation.
+DR   Reactome; R-HSA-6803157; Antimicrobial peptides.
+DR   Reactome; R-HSA-977225; Amyloid fiber formation.
+DR   SignaLink; P61626; -.
+DR   SIGNOR; P61626; -.
+DR   Agora; ENSG00000090382; -.
+DR   BioGRID-ORCS; 4069; 19 hits in 1171 CRISPR screens.
+DR   CD-CODE; 232F8A39; P-body.
+DR   ChiTaRS; LYZ; human.
+DR   EvolutionaryTrace; P61626; -.
+DR   GeneWiki; Lysozyme; -.
+DR   GenomeRNAi; 4069; -.
+DR   Pharos; P61626; Tbio.
+DR   PRO; PR:P61626; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; P61626; protein.
+DR   Bgee; ENSG00000090382; Expressed in monocyte and 185 other cell types or tissues.
+DR   ExpressionAtlas; P61626; baseline and differential.
+DR   GO; GO:0035578; C:azurophil granule lumen; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:HPA.
+DR   GO; GO:0035580; C:specific granule lumen; TAS:Reactome.
+DR   GO; GO:1904724; C:tertiary granule lumen; TAS:Reactome.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0003796; F:lysozyme activity; IBA:GO_Central.
+DR   GO; GO:0019730; P:antimicrobial humoral response; TAS:Reactome.
+DR   GO; GO:0042742; P:defense response to bacterium; IDA:UniProtKB.
+DR   GO; GO:0050829; P:defense response to Gram-negative bacterium; IBA:GO_Central.
+DR   GO; GO:0050830; P:defense response to Gram-positive bacterium; IDA:UniProtKB.
+DR   GO; GO:0006954; P:inflammatory response; TAS:UniProtKB.
+DR   GO; GO:0031640; P:killing of cells of another organism; IDA:UniProtKB.
+DR   CDD; cd16897; LYZ_C; 1.
+DR   FunFam; 1.10.530.10:FF:000001; Lysozyme C; 1.
+DR   Gene3D; 1.10.530.10; -; 1.
+DR   InterPro; IPR001916; Glyco_hydro_22.
+DR   InterPro; IPR019799; Glyco_hydro_22_CS.
+DR   InterPro; IPR000974; Glyco_hydro_22_lys.
+DR   InterPro; IPR023346; Lysozyme-like_dom_sf.
+DR   PANTHER; PTHR11407; LYSOZYME C; 1.
+DR   PANTHER; PTHR11407:SF28; LYSOZYME C; 1.
+DR   Pfam; PF00062; Lys; 1.
+DR   PRINTS; PR00137; LYSOZYME.
+DR   PRINTS; PR00135; LYZLACT.
+DR   SMART; SM00263; LYZ1; 1.
+DR   SUPFAM; SSF53955; Lysozyme-like; 1.
+DR   PROSITE; PS00128; GLYCOSYL_HYDROL_F22_1; 1.
+DR   PROSITE; PS51348; GLYCOSYL_HYDROL_F22_2; 1.
+DR   PDBsum; 133L; -.
+DR   PDBsum; 134L; -.
+DR   PDBsum; 1B5U; -.
+DR   PDBsum; 1B5V; -.
+DR   PDBsum; 1B5W; -.
+DR   PDBsum; 1B5X; -.
+DR   PDBsum; 1B5Y; -.
+DR   PDBsum; 1B5Z; -.
+DR   PDBsum; 1B7L; -.
+DR   PDBsum; 1B7M; -.
+DR   PDBsum; 1B7N; -.
+DR   PDBsum; 1B7O; -.
+DR   PDBsum; 1B7P; -.
+DR   PDBsum; 1B7Q; -.
+DR   PDBsum; 1B7R; -.
+DR   PDBsum; 1B7S; -.
+DR   PDBsum; 1BB3; -.
+DR   PDBsum; 1BB4; -.
+DR   PDBsum; 1BB5; -.
+DR   PDBsum; 1C43; -.
+DR   PDBsum; 1C45; -.
+DR   PDBsum; 1C46; -.
+DR   PDBsum; 1C7P; -.
+DR   PDBsum; 1CJ6; -.
+DR   PDBsum; 1CJ7; -.
+DR   PDBsum; 1CJ8; -.
+DR   PDBsum; 1CJ9; -.
+DR   PDBsum; 1CKC; -.
+DR   PDBsum; 1CKD; -.
+DR   PDBsum; 1CKF; -.
+DR   PDBsum; 1CKG; -.
+DR   PDBsum; 1CKH; -.
+DR   PDBsum; 1D6P; -.
+DR   PDBsum; 1D6Q; -.
+DR   PDBsum; 1DI3; -.
+DR   PDBsum; 1DI4; -.
+DR   PDBsum; 1DI5; -.
+DR   PDBsum; 1EQ4; -.
+DR   PDBsum; 1EQ5; -.
+DR   PDBsum; 1EQE; -.
+DR   PDBsum; 1GAY; -.
+DR   PDBsum; 1GAZ; -.
+DR   PDBsum; 1GB0; -.
+DR   PDBsum; 1GB2; -.
+DR   PDBsum; 1GB3; -.
+DR   PDBsum; 1GB5; -.
+DR   PDBsum; 1GB6; -.
+DR   PDBsum; 1GB7; -.
+DR   PDBsum; 1GB8; -.
+DR   PDBsum; 1GB9; -.
+DR   PDBsum; 1GBO; -.
+DR   PDBsum; 1GBW; -.
+DR   PDBsum; 1GBX; -.
+DR   PDBsum; 1GBY; -.
+DR   PDBsum; 1GBZ; -.
+DR   PDBsum; 1GDW; -.
+DR   PDBsum; 1GDX; -.
+DR   PDBsum; 1GE0; -.
+DR   PDBsum; 1GE1; -.
+DR   PDBsum; 1GE2; -.
+DR   PDBsum; 1GE3; -.
+DR   PDBsum; 1GE4; -.
+DR   PDBsum; 1GEV; -.
+DR   PDBsum; 1GEZ; -.
+DR   PDBsum; 1GF0; -.
+DR   PDBsum; 1GF3; -.
+DR   PDBsum; 1GF4; -.
+DR   PDBsum; 1GF5; -.
+DR   PDBsum; 1GF6; -.
+DR   PDBsum; 1GF7; -.
+DR   PDBsum; 1GF8; -.
+DR   PDBsum; 1GF9; -.
+DR   PDBsum; 1GFA; -.
+DR   PDBsum; 1GFE; -.
+DR   PDBsum; 1GFG; -.
+DR   PDBsum; 1GFH; -.
+DR   PDBsum; 1GFJ; -.
+DR   PDBsum; 1GFK; -.
+DR   PDBsum; 1GFR; -.
+DR   PDBsum; 1GFT; -.
+DR   PDBsum; 1GFU; -.
+DR   PDBsum; 1GFV; -.
+DR   PDBsum; 1HNL; -.
+DR   PDBsum; 1I1Z; -.
+DR   PDBsum; 1I20; -.
+DR   PDBsum; 1I22; -.
+DR   PDBsum; 1INU; -.
+DR   PDBsum; 1IOC; -.
+DR   PDBsum; 1IP1; -.
+DR   PDBsum; 1IP2; -.
+DR   PDBsum; 1IP3; -.
+DR   PDBsum; 1IP4; -.
+DR   PDBsum; 1IP5; -.
+DR   PDBsum; 1IP6; -.
+DR   PDBsum; 1IP7; -.
+DR   PDBsum; 1IWT; -.
+DR   PDBsum; 1IWU; -.
+DR   PDBsum; 1IWV; -.
+DR   PDBsum; 1IWW; -.
+DR   PDBsum; 1IWX; -.
+DR   PDBsum; 1IWY; -.
+DR   PDBsum; 1IWZ; -.
+DR   PDBsum; 1IX0; -.
+DR   PDBsum; 1IY3; -.
+DR   PDBsum; 1IY4; -.
+DR   PDBsum; 1JKA; -.
+DR   PDBsum; 1JKB; -.
+DR   PDBsum; 1JKC; -.
+DR   PDBsum; 1JKD; -.
+DR   PDBsum; 1JSF; -.
+DR   PDBsum; 1JWR; -.
+DR   PDBsum; 1LAA; -.
+DR   PDBsum; 1LHH; -.
+DR   PDBsum; 1LHI; -.
+DR   PDBsum; 1LHJ; -.
+DR   PDBsum; 1LHK; -.
+DR   PDBsum; 1LHL; -.
+DR   PDBsum; 1LHM; -.
+DR   PDBsum; 1LMT; -.
+DR   PDBsum; 1LOZ; -.
+DR   PDBsum; 1LYY; -.
+DR   PDBsum; 1LZ1; -.
+DR   PDBsum; 1LZ4; -.
+DR   PDBsum; 1LZ5; -.
+DR   PDBsum; 1LZ6; -.
+DR   PDBsum; 1LZR; -.
+DR   PDBsum; 1LZS; -.
+DR   PDBsum; 1OP9; -.
+DR   PDBsum; 1OUA; -.
+DR   PDBsum; 1OUB; -.
+DR   PDBsum; 1OUC; -.
+DR   PDBsum; 1OUD; -.
+DR   PDBsum; 1OUE; -.
+DR   PDBsum; 1OUF; -.
+DR   PDBsum; 1OUG; -.
+DR   PDBsum; 1OUH; -.
+DR   PDBsum; 1OUI; -.
+DR   PDBsum; 1OUJ; -.
+DR   PDBsum; 1QSW; -.
+DR   PDBsum; 1RE2; -.
+DR   PDBsum; 1REM; -.
+DR   PDBsum; 1REX; -.
+DR   PDBsum; 1REY; -.
+DR   PDBsum; 1REZ; -.
+DR   PDBsum; 1TAY; -.
+DR   PDBsum; 1TBY; -.
+DR   PDBsum; 1TCY; -.
+DR   PDBsum; 1TDY; -.
+DR   PDBsum; 1UBZ; -.
+DR   PDBsum; 1W08; -.
+DR   PDBsum; 1WQM; -.
+DR   PDBsum; 1WQN; -.
+DR   PDBsum; 1WQO; -.
+DR   PDBsum; 1WQP; -.
+DR   PDBsum; 1WQQ; -.
+DR   PDBsum; 1WQR; -.
+DR   PDBsum; 1YAM; -.
+DR   PDBsum; 1YAN; -.
+DR   PDBsum; 1YAO; -.
+DR   PDBsum; 1YAP; -.
+DR   PDBsum; 1YAQ; -.
+DR   PDBsum; 207L; -.
+DR   PDBsum; 208L; -.
+DR   PDBsum; 2BQA; -.
+DR   PDBsum; 2BQB; -.
+DR   PDBsum; 2BQC; -.
+DR   PDBsum; 2BQD; -.
+DR   PDBsum; 2BQE; -.
+DR   PDBsum; 2BQF; -.
+DR   PDBsum; 2BQG; -.
+DR   PDBsum; 2BQH; -.
+DR   PDBsum; 2BQI; -.
+DR   PDBsum; 2BQJ; -.
+DR   PDBsum; 2BQK; -.
+DR   PDBsum; 2BQL; -.
+DR   PDBsum; 2BQM; -.
+DR   PDBsum; 2BQN; -.
+DR   PDBsum; 2BQO; -.
+DR   PDBsum; 2HEA; -.
+DR   PDBsum; 2HEB; -.
+DR   PDBsum; 2HEC; -.
+DR   PDBsum; 2HED; -.
+DR   PDBsum; 2HEE; -.
+DR   PDBsum; 2HEF; -.
+DR   PDBsum; 2LHM; -.
+DR   PDBsum; 2MEA; -.
+DR   PDBsum; 2MEB; -.
+DR   PDBsum; 2MEC; -.
+DR   PDBsum; 2MED; -.
+DR   PDBsum; 2MEE; -.
+DR   PDBsum; 2MEF; -.
+DR   PDBsum; 2MEG; -.
+DR   PDBsum; 2MEH; -.
+DR   PDBsum; 2MEI; -.
+DR   PDBsum; 2NWD; -.
+DR   PDBsum; 2ZIJ; -.
+DR   PDBsum; 2ZIK; -.
+DR   PDBsum; 2ZIL; -.
+DR   PDBsum; 2ZWB; -.
+DR   PDBsum; 3EBA; -.
+DR   PDBsum; 3FE0; -.
+DR   PDBsum; 3LHM; -.
+DR   PDBsum; 3LN2; -.
+DR   PDBsum; 4I0C; -.
+DR   PDBsum; 4ML7; -.
+DR   PDBsum; 4R0P; -.
+DR   PDBsum; 5LSH; -.
+DR   PDBsum; 5LVK; -.
+DR   PDBsum; 6LFH; -.
+DR   PDBsum; 7AP7; -.
+DR   PDBsum; 7XF6; -.
+DR   PDBsum; 7XF7; -.
+DR   PDBsum; 7XF8; -.
+DR   PDBsum; 8QUT; -.
+DR   PDBsum; 8R4A; -.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amyloid; Amyloidosis; Antimicrobial; Bacteriolytic enzyme;
+KW   Direct protein sequencing; Disease variant; Disulfide bond; Glycosidase;
+KW   Hydrolase; Proteomics identification; Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..18
+FT                   /evidence="ECO:0000269|PubMed:11946553,
+FT                   ECO:0000269|PubMed:11946554, ECO:0000269|PubMed:25946035,
+FT                   ECO:0000269|PubMed:5168859, ECO:0000269|PubMed:5284421"
+FT   CHAIN           19..148
+FT                   /note="Lysozyme C"
+FT                   /id="PRO_0000018467"
+FT   DOMAIN          19..148
+FT                   /note="C-type lysozyme"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   ACT_SITE        53
+FT   ACT_SITE        71
+FT   DISULFID        24..146
+FT   DISULFID        48..134
+FT   DISULFID        83..99
+FT   DISULFID        95..113
+FT   VARIANT         74
+FT                   /note="I -> T (in AMYLD5; dbSNP:rs121913547)"
+FT                   /evidence="ECO:0000269|PubMed:8464497"
+FT                   /id="VAR_004280"
+FT   VARIANT         85
+FT                   /note="D -> H (in AMYLD5; dbSNP:rs121913548)"
+FT                   /evidence="ECO:0000269|PubMed:8464497"
+FT                   /id="VAR_004281"
+FT   VARIANT         88
+FT                   /note="T -> N (in dbSNP:rs1800973)"
+FT                   /id="VAR_012050"
+FT   CONFLICT        10
+FT                   /note="V -> A (in Ref. 5; AAC63078)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        41
+FT                   /note="I -> M (in Ref. 1; AAA36188)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        111
+FT                   /note="V -> A (in Ref. 5; AAC63078)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        124
+FT                   /note="I -> V (in Ref. 5; AAC63078)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        128
+FT                   /note="V -> A (in Ref. 5; AAC63078)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        136
+FT                   /note="N -> D (in Ref. 5; AAC63078)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           23..32
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   HELIX           38..40
+FT                   /evidence="ECO:0007829|PDB:1BB3"
+FT   HELIX           43..54
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          55..57
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          61..64
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   TURN            65..68
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          69..72
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   TURN            73..76
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   TURN            79..82
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          83..85
+FT                   /evidence="ECO:0007829|PDB:1LYY"
+FT   STRAND          86..88
+FT                   /evidence="ECO:0007829|PDB:7AP7"
+FT   STRAND          92..94
+FT                   /evidence="ECO:0007829|PDB:8QUT"
+FT   HELIX           99..103
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          104..106
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   HELIX           108..119
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          120..122
+FT                   /evidence="ECO:0007829|PDB:1B7M"
+FT   HELIX           123..126
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   HELIX           128..133
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   TURN            134..136
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   STRAND          137..139
+FT                   /evidence="ECO:0007829|PDB:8R4A"
+FT   HELIX           140..142
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+FT   TURN            143..145
+FT                   /evidence="ECO:0007829|PDB:2NWD"
+SQ   SEQUENCE   148 AA;  16537 MW;  8ECFD276BEB2678A CRC64;
+     MKALIVLGLV LLSVTVQGKV FERCELARTL KRLGMDGYRG ISLANWMCLA KWESGYNTRA
+     TNYNAGDRST DYGIFQINSR YWCNDGKTPG AVNACHLSCS ALLQDNIADA VACAKRVVRD
+     PQGIRAWVAW RNRCQNRDVR QYVQGCGV
+//

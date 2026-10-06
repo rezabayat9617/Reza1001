@@ -1,0 +1,228 @@
+LOCUS       NM_000239               1490 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens lysozyme (LYZ), mRNA.
+ACCESSION   NM_000239
+VERSION     NM_000239.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1490)
+  AUTHORS   Frese,A., Goode,C., Zhaliazka,K., Holman,A.P., Dou,T. and
+            Kurouski,D.
+  TITLE     Length and saturation of fatty acids in phosphatidylserine
+            determine the rate of lysozyme aggregation simultaneously altering
+            the structure and toxicity of amyloid oligomers and fibrils
+  JOURNAL   Protein Sci 32 (8), e4717 (2023)
+   PUBMED   37402649
+  REMARK    GeneRIF: Length and saturation of fatty acids in phosphatidylserine
+            determine the rate of lysozyme aggregation simultaneously altering
+            the structure and toxicity of amyloid oligomers and fibrils.
+REFERENCE   2  (bases 1 to 1490)
+  AUTHORS   Vettore,N., Moray,J., Brans,A., Herman,R., Charlier,P.,
+            Kumita,J.R., Kerff,F., Dobson,C.M. and Dumoulin,M.
+  TITLE     Characterisation of the structural, dynamic and aggregation
+            properties of the W64R amyloidogenic variant of human lysozyme
+  JOURNAL   Biophys Chem 271, 106563 (2021)
+   PUBMED   33640796
+  REMARK    GeneRIF: Characterisation of the structural, dynamic and
+            aggregation properties of the W64R amyloidogenic variant of human
+            lysozyme.
+REFERENCE   3  (bases 1 to 1490)
+  AUTHORS   Carpentier,M. and Chomilier,J.
+  TITLE     Analyses of displacements resulting from a point mutation in
+            proteins
+  JOURNAL   J Struct Biol 211 (2), 107543 (2020)
+   PUBMED   32522553
+  REMARK    GeneRIF: Analyses of displacements resulting from a point mutation
+            in proteins.
+REFERENCE   4  (bases 1 to 1490)
+  AUTHORS   Bergkvist,L., Richards,D.R., Bernardo-Gancedo,A., Kumita,J.R.,
+            Nilsson,P.R. and Brorsson,A.C.
+  TITLE     Serum amyloid P component promotes formation of distinct aggregated
+            lysozyme morphologies and reduces toxicity in Drosophila flies
+            expressing F57I lysozyme
+  JOURNAL   PLoS One 15 (1), e0227227 (2020)
+   PUBMED   31978114
+  REMARK    GeneRIF: Serum amyloid P component promotes formation of distinct
+            aggregated lysozyme morphologies and reduces toxicity in Drosophila
+            flies expressing human F57I lysozyme.
+REFERENCE   5  (bases 1 to 1490)
+  AUTHORS   Bergamo,A., Gerdol,M., Pallavicini,A., Greco,S., Schepens,I.,
+            Hamelin,R., Armand,F., Dyson,P.J. and Sava,G.
+  TITLE     Lysozyme-Induced Transcriptional Regulation of TNF-alpha Pathway
+            Genes in Cells of the Monocyte Lineage
+  JOURNAL   Int J Mol Sci 20 (21), 5502 (2019)
+   PUBMED   31694163
+  REMARK    GeneRIF: These results of the RNA-seq experiment show that lysozyme
+            induces transcriptional modulation of the TNF-alpha/IL-1beta
+            pathway genes in U937 monocytes.
+REFERENCE   6  (bases 1 to 1490)
+  AUTHORS   Schroder,J.M. and Harder,J.
+  TITLE     Antimicrobial skin peptides and proteins
+  JOURNAL   Cell Mol Life Sci 63 (4), 469-486 (2006)
+   PUBMED   16416029
+  REMARK    GeneRIF: Lysozyme functions as an antimicrobial peptide, with
+            antibacterial activity.
+            Review article
+REFERENCE   7  (bases 1 to 1490)
+  AUTHORS   Ohkubo,T., Taniyama,Y. and Kikuchi,M.
+  TITLE     1H and 15N NMR study of human lysozyme
+  JOURNAL   J Biochem 110 (6), 1022-1029 (1991)
+   PUBMED   1794972
+REFERENCE   8  (bases 1 to 1490)
+  AUTHORS   Inaka,K., Taniyama,Y., Kikuchi,M., Morikawa,K. and Matsushima,M.
+  TITLE     The crystal structure of a mutant human lysozyme C77/95A with
+            increased secretion efficiency in yeast
+  JOURNAL   J Biol Chem 266 (19), 12599-12603 (1991)
+   PUBMED   2061330
+REFERENCE   9  (bases 1 to 1490)
+  AUTHORS   Redfield,C. and Dobson,C.M.
+  TITLE     1H NMR studies of human lysozyme: spectral assignment and
+            comparison with hen lysozyme
+  JOURNAL   Biochemistry 29 (31), 7201-7214 (1990)
+   PUBMED   2207098
+REFERENCE   10 (bases 1 to 1490)
+  AUTHORS   Reitamo,S., Klockars,M., Adinolfi,M. and Osserman,E.F.
+  TITLE     Human lysozyme (origin and distribution in health and disease)
+  JOURNAL   Ric Clin Lab 8 (4), 211-231 (1978)
+   PUBMED   366724
+  REMARK    Review article
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK130149.1, J03801.1 and
+            AC020656.33.
+            
+            On Aug 31, 2019 this sequence version replaced NM_000239.2.
+            
+            Summary: This gene encodes human lysozyme, whose natural substrate
+            is the bacterial cell wall peptidoglycan (cleaving the
+            beta[1-4]glycosidic linkages between N-acetylmuramic acid and
+            N-acetylglucosamine). Lysozyme is one of the antimicrobial agents
+            found in human milk, and is also present in spleen, lung, kidney,
+            white blood cells, plasma, saliva, and tears. The protein has
+            antibacterial activity against a number of bacterial species.
+            Missense mutations in this gene have been identified in heritable
+            renal amyloidosis. [provided by RefSeq, Oct 2014].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC004147.2, AK130149.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match                 :: ENST00000261267.7/
+                                                  ENSP00000261267.2
+            Protein has antimicrobial activity :: PMID: 16416029
+            RefSeq Select criteria             :: based on single
+                                                  protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-589               AK130149.1         33-621
+            590-653             J03801.1           587-650
+            654-1489            AK130149.1         686-1521
+            1490-1490           AC020656.33        122405-122405
+FEATURES             Location/Qualifiers
+     source          1..1490
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q15"
+     gene            1..1490
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /note="lysozyme"
+                     /db_xref="GeneID:4069"
+                     /db_xref="HGNC:HGNC:6740"
+                     /db_xref="MIM:153450"
+     exon            1..164
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    5..7
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /note="upstream in-frame stop codon"
+     CDS             29..475
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /EC_number="3.2.1.17"
+                     /note="1,4-beta-N-acetylmuramidase C; lysozyme C; c-type
+                     lysozyme; lysozyme F1"
+                     /codon_start=1
+                     /product="lysozyme C precursor"
+                     /protein_id="NP_000230.1"
+                     /db_xref="CCDS:CCDS8989.1"
+                     /db_xref="GeneID:4069"
+                     /db_xref="HGNC:HGNC:6740"
+                     /db_xref="MIM:153450"
+                     /translation="MKALIVLGLVLLSVTVQGKVFERCELARTLKRLGMDGYRGISLA
+                     NWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSAL
+                     LQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV"
+     sig_peptide     29..82
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     83..472
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /product="lysozyme C"
+                     /experiment="DESCRIPTION:antibacterial peptide[PMID:
+                     16416029]"
+     exon            165..329
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /inference="alignment:Splign:2.1.0"
+     exon            330..408
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /inference="alignment:Splign:2.1.0"
+     exon            409..1490
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1471..1476
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /note="hexamer: ATTAAA"
+     polyA_site      1490
+                     /gene="LYZ"
+                     /gene_synonym="AMYLD5; LYZF1; LZM"
+                     /note="major polyA site"
+ORIGIN      
+        1 agcctagcac tctgacctag cagtcaacat gaaggctctc attgttctgg ggcttgtcct
+       61 cctttctgtt acggtccagg gcaaggtctt tgaaaggtgt gagttggcca gaactctgaa
+      121 aagattggga atggatggct acaggggaat cagcctagca aactggatgt gtttggccaa
+      181 atgggagagt ggttacaaca cacgagctac aaactacaat gctggagaca gaagcactga
+      241 ttatgggata tttcagatca atagccgcta ctggtgtaat gatggcaaaa ccccaggagc
+      301 agttaatgcc tgtcatttat cctgcagtgc tttgctgcaa gataacatcg ctgatgctgt
+      361 agcttgtgca aagagggttg tccgtgatcc acaaggcatt agagcatggg tggcatggag
+      421 aaatcgttgt caaaacagag atgtccgtca gtatgttcaa ggttgtggag tgtaactcca
+      481 gaattttcct tcttcagctc attttgtctc tctcacatta agggagtagg aattaagtga
+      541 aaggtcacac taccattatt tccccttcaa acaaataata tttttacaga agcaggagca
+      601 aaatatggcc tttcttctaa gagatataat gttcactaat gtggttattt tacattaagc
+      661 ctacaacatt tttcagtttg caaatagaac taatactggt gaaaatttac ctaaaacctt
+      721 ggttatcaaa tacatctcca gtacattccg ttcttttttt ttttgagaca gtctcgctct
+      781 gtcgcccagg ctggagtgca gtggcgcaat ctcggctcac tgcaacctcc acctcccggg
+      841 ttcacgccat tctcctgcct cagcctcccg agtagctggg attacgggcg cccgccacca
+      901 cgcccggcta attttttgta tttttagtag agacagggtt tcaccgtgtt agccaggatg
+      961 gtctcgatct cctgaccttg tgatccaccc acctcggcct cccaaagtgc tgggattaca
+     1021 ggcgtgagcc actgcgcccg gccacattca gttcttatca aagaaataac ccagacttaa
+     1081 tcttgaatga tacgattatg cccaatatta agtaaaaaat ataagaaaag gttatcttaa
+     1141 atagatctta ggcaaaatac cagctgatga aggcatctga tgccttcatc tgttcagtca
+     1201 tctccaaaaa cagtaaaaat aaccactttt tgttgggcaa tatgaaattt ttaaaggagt
+     1261 agaataccaa atgatagaaa cagactgcct gaattgagaa ttttgatttc ttaaagtgtg
+     1321 tttctttcta aattgctgtt ccttaatttg attaatttaa ttcatgtatt atgattaaat
+     1381 ctgaggcaga tgagcttaca agtattgaaa taattactaa ttaatcacaa atgtgaagtt
+     1441 atgcatgatg taaaaaatac aaacattcta attaaaggct ttgcaacaca
+//
+
