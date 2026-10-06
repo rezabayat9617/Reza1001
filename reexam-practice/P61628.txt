@@ -1,0 +1,113 @@
+ID   LYSC_PANTR              Reviewed;         148 AA.
+AC   P61628; P00695; Q13170; Q9UCF8;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2004, sequence version 1.
+DT   02-SEP-2026, entry version 123.
+DE   RecName: Full=Lysozyme C;
+DE            EC=3.2.1.17;
+DE   AltName: Full=1,4-beta-N-acetylmuramidase C;
+DE   Flags: Precursor;
+GN   Name=LYZ; Synonyms=LZM;
+OS   Pan troglodytes (Chimpanzee).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Pan.
+OX   NCBI_TaxID=9598;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Blood;
+RX   PubMed=8990116; DOI=10.1038/385151a0;
+RA   Messier W., Stewart C.B.;
+RT   "Episodic adaptive evolution of primate lysozymes.";
+RL   Nature 385:151-154(1997).
+CC   -!- FUNCTION: Lysozymes have primarily a bacteriolytic function; those in
+CC       tissues and body fluids are associated with the monocyte-macrophage
+CC       system and enhance the activity of immunoagents.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Hydrolysis of (1->4)-beta-linkages between N-acetylmuramic
+CC         acid and N-acetyl-D-glucosamine residues in a peptidoglycan and
+CC         between N-acetyl-D-glucosamine residues in chitodextrins.;
+CC         EC=3.2.1.17;
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Lysozyme C is capable of both hydrolysis and
+CC       transglycosylation; it also shows a slight esterase activity. It acts
+CC       rapidly on both peptide-substituted and unsubstituted peptidoglycan,
+CC       and slowly on chitin oligosaccharides.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 22 family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00680}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U76912; AAB41209.1; -; mRNA.
+DR   RefSeq; NP_001009073.1; NM_001009073.1.
+DR   AlphaFoldDB; P61628; -.
+DR   BMRB; P61628; -.
+DR   SMR; P61628; -.
+DR   FunCoup; P61628; 94.
+DR   STRING; 9598.ENSPTRP00000050073; -.
+DR   PaxDb; 9598-ENSPTRP00000050073; -.
+DR   Ensembl; ENSPTRT00000057224.3; ENSPTRP00000050073.3; ENSPTRG00000029654.3.
+DR   GeneID; 450190; -.
+DR   KEGG; ptr:450190; -.
+DR   CTD; 4069; -.
+DR   VGNC; VGNC:5465; LYZ.
+DR   eggNOG; ENOG502S1S1; Eukaryota.
+DR   GeneTree; ENSGT00940000153832; -.
+DR   InParanoid; P61628; -.
+DR   OMA; VYERCEF; -.
+DR   OrthoDB; 742at9604; -.
+DR   Proteomes; UP000002277; Chromosome 12.
+DR   Bgee; ENSPTRG00000029654; Expressed in bone marrow and 20 other cell types or tissues.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:Ensembl.
+DR   GO; GO:0042802; F:identical protein binding; IEA:Ensembl.
+DR   GO; GO:0003796; F:lysozyme activity; IBA:GO_Central.
+DR   GO; GO:0050829; P:defense response to Gram-negative bacterium; IBA:GO_Central.
+DR   GO; GO:0050830; P:defense response to Gram-positive bacterium; IBA:GO_Central.
+DR   GO; GO:0031640; P:killing of cells of another organism; IEA:Ensembl.
+DR   CDD; cd16897; LYZ_C; 1.
+DR   FunFam; 1.10.530.10:FF:000001; Lysozyme C; 1.
+DR   Gene3D; 1.10.530.10; -; 1.
+DR   InterPro; IPR001916; Glyco_hydro_22.
+DR   InterPro; IPR019799; Glyco_hydro_22_CS.
+DR   InterPro; IPR000974; Glyco_hydro_22_lys.
+DR   InterPro; IPR023346; Lysozyme-like_dom_sf.
+DR   PANTHER; PTHR11407; LYSOZYME C; 1.
+DR   PANTHER; PTHR11407:SF28; LYSOZYME C; 1.
+DR   Pfam; PF00062; Lys; 1.
+DR   PRINTS; PR00137; LYSOZYME.
+DR   PRINTS; PR00135; LYZLACT.
+DR   SMART; SM00263; LYZ1; 1.
+DR   SUPFAM; SSF53955; Lysozyme-like; 1.
+DR   PROSITE; PS00128; GLYCOSYL_HYDROL_F22_1; 1.
+DR   PROSITE; PS51348; GLYCOSYL_HYDROL_F22_2; 1.
+PE   2: Evidence at transcript level;
+KW   Antimicrobial; Bacteriolytic enzyme; Disulfide bond; Glycosidase;
+KW   Hydrolase; Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..18
+FT                   /evidence="ECO:0000250"
+FT   CHAIN           19..148
+FT                   /note="Lysozyme C"
+FT                   /id="PRO_0000018476"
+FT   DOMAIN          19..148
+FT                   /note="C-type lysozyme"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   ACT_SITE        53
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   ACT_SITE        71
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   DISULFID        24..146
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   DISULFID        48..134
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   DISULFID        83..99
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+FT   DISULFID        95..113
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00680"
+SQ   SEQUENCE   148 AA;  16537 MW;  8ECFD276BEB2678A CRC64;
+     MKALIVLGLV LLSVTVQGKV FERCELARTL KRLGMDGYRG ISLANWMCLA KWESGYNTRA
+     TNYNAGDRST DYGIFQINSR YWCNDGKTPG AVNACHLSCS ALLQDNIADA VACAKRVVRD
+     PQGIRAWVAW RNRCQNRDVR QYVQGCGV
+//

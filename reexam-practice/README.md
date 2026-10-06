@@ -80,3 +80,35 @@ sort -t$'\t' -k11,11g LYZ_blastp_local.tsv | cut -f2,3,11 | head -5
 
 The -n option does not correctly handle E-values written in scientific notation.
 The -g option performs general numerical sorting and correctly interprets values such as 5.48e-107.
+
+
+
+# Part 3 — Interpretation
+
+## Question 1
+Answer: 150 hits have an E-value below 1e-10.
+Command:
+awk -F'\t' '$11 < 1e-10' LYZ_blastp_local.tsv | wc -l
+
+## Question 2
+Answer: 6 hits have at least 90% identity.
+Command:
+awk -F'\t' '$3 >= 90' LYZ_blastp_local.tsv | wc -l
+
+## Question 3
+Answer: The best non-self hit is P61628 with 100.000% identity. The organism is Pan troglodytes (Chimpanzee).
+Commands:
+awk -F'\t' '$2 != "P61626"' LYZ_blastp_local.tsv | head -1 | cut -f2,3
+curl -s "https://rest.uniprot.org/uniprotkb/P61628.txt" > P61628.txt
+grep "^OS" P61628.txt
+
+## Question 4
+Answer: The hit with the lowest percentage identity is Q06655 with 32.773% identity and an E-value of 1.37e-16. The protein is Alpha-lactalbumin from Notamacropus eugenii (Tammar wallaby).
+Commands:
+sort -t$'\t' -k3,3g LYZ_blastp_local.tsv | cut -f2,3,11 | head -1
+curl -s "https://rest.uniprot.org/uniprotkb/Q06655.txt" > Q06655.txt
+grep "^DE   RecName: Full=" Q06655.txt
+grep "^OS" Q06655.txt
+
+## Question 5
+Answer: The protein is highly conserved among its closest homologues, with 6 hits having at least 90% identity and the best non-self hit showing 100% identity. In addition, 150 of 152 hits have E-values below 1e-10. The lowest-identity significant hit has 32.773% identity with an E-value of 1.37e-16, showing that detectable sequence similarity also extends to more distant proteins.
